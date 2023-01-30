@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": {
+      "value": "eastus"
+    },
+    "envt": {
+      "value": "prod"
+    },
+    "adminUsername": {
+      "value": "jeenaAdmin"
+    },
+    "dnsNameForPublicIP": {
+      "value": "jeenaweb"
+    },
+    "mgmtUserName": {
+      "value": "jeenaAdmin"
+    },
+    "mgmtDNSName": {
+      "value": "jeenamgmt"
+    },
+    "adminPasswordOrKey": {
+      "value": "jeenaadmin@123"
+    },
+    "mgmtPassword": {
+      "value": "jeenaadmin@123"
+    },
+    "keyvaultname": {
+      "value": "jeenakeyvault123"
+    }
+  }
+}
