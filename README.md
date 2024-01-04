@@ -1,3 +1,1 @@
 # About Me
- I am Jeena Marath Premkumar. I am from India and living in Netherlands for the past one year with my family. I have 2 boys and I have been a full time parent for the past few years. I have been working previously in IT industry with companies like Tata Consultancy Services, IBM, IdeaLabs and Syntel.I have around 7 years of IT experience mainly in development.
- My hobbies inlcude reading,cooking, dancing ,travelling and practising yoga.
